@@ -124,6 +124,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="pavyu_kursach_sabina.cpp" />
+    <ClCompile Include="other.cpp" />
+    <ClCompile Include="MATH.cpp" />
+    <ClCompile Include="MENU.cpp" />
+    <ClCompile Include="TWO_list.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Total_Header.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
